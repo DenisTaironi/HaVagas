@@ -1,0 +1,6 @@
+
+Relatório a partir do dia: 2016-05-17 20:02:25.0.
+A vaga 0 foi ocupada 0 vezes por 0 segundos, com uma média de 0 segundos  por ocupação
+A vaga 1 foi ocupada 2 vezes por 60 segundos, com uma média de 30 segundos  por ocupação
+A vaga 2 foi ocupada 0 vezes por 0 segundos, com uma média de 0 segundos  por ocupação
+A vaga 3 foi ocupada 2 vezes por 60 segundos, com uma média de 30 segundos  por ocupação
